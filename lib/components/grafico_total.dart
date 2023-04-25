@@ -145,9 +145,9 @@ class _GraficoTotalState extends State<GraficoTotal> {
     final List<ChartDataTotalDespezas> chartDataTotalDespezas = [
       ChartDataTotalDespezas(
           'Casa', totalCasa, Color.fromARGB(255, 88, 80, 141)),
-      ChartDataTotalDespezas('Mercado', totalMercado, Colors.green),
+      ChartDataTotalDespezas('Mercado', totalMercado, Colors.green.shade700),
       ChartDataTotalDespezas(
-          'Carro', totalCarro, Color.fromARGB(255, 0, 63, 92)),
+          'Carro', totalCarro, Color.fromARGB(255, 0, 117, 172)),
       ChartDataTotalDespezas('Outros', totalOutros, Colors.blueGrey)
     ];
 
