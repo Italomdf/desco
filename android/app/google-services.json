@@ -7,9 +7,9 @@
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:751897528115:android:9f26d235e465938935a046",
+        "mobilesdk_app_id": "1:751897528115:android:8e93d7b36b7bc6c935a046",
         "android_client_info": {
-          "package_name": "com.example.desco"
+          "package_name": "com.elemenx.desco"
         }
       },
       "oauth_client": [
@@ -43,7 +43,7 @@
     },
     {
       "client_info": {
-        "mobilesdk_app_id": "1:751897528115:android:7b60968e16f9fdb335a046",
+        "mobilesdk_app_id": "1:751897528115:android:b35c14522e552b2c35a046",
         "android_client_info": {
           "package_name": "com.example.new_app"
         }
