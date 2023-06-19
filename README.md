@@ -20,4 +20,4 @@ Tela de Login
 
 Tela de Cadastro de Despesa
 
-![Tela de Cadastro de Despesa](https://github.com/Italomdf/desco/blob/master/assets/images/Screenshot3.png)
+![Tela de Cadastro de Despesa](https://github.com/Italomdf/desco/blob/master/assets/images/Screenshot.png)
